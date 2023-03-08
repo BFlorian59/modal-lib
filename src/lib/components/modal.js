@@ -14,8 +14,8 @@ const Modal = (props) => {
         <>
         <div className="modal">
             <div className="modalBody">
+            <div className="modal__content">
             <i onClick={() => setIsOpen(false)} className="fa-solid fa-circle-xmark"></i>
-            <div className="modalContent">
                 <h2 className="modalText">
                     {modalText}
                 </h2>

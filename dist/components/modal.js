@@ -14,14 +14,14 @@ var Modal = function Modal(props) {
     className: "modal"
   }, /*#__PURE__*/_react.default.createElement("div", {
     className: "modalBody"
+  }, /*#__PURE__*/_react.default.createElement("div", {
+    className: "modal__content"
   }, /*#__PURE__*/_react.default.createElement("i", {
     onClick: function onClick() {
       return setIsOpen(false);
     },
     className: "fa-solid fa-circle-xmark"
-  }), /*#__PURE__*/_react.default.createElement("div", {
-    className: "modalContent"
-  }, /*#__PURE__*/_react.default.createElement("h2", {
+  }), /*#__PURE__*/_react.default.createElement("h2", {
     className: "modalText"
   }, modalText)))));
 };

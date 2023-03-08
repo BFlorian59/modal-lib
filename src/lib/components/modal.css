@@ -11,23 +11,21 @@
   background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
 }
 
-.modalBody{
-  
-  width: 50%;
+.modal__content {
+  border-radius: 4px;
+  position: relative;
+  width: 60%;
+  max-width: 90%;
+  background: #fff;
+  padding: 1em 2em;
   margin: auto;
+  box-shadow: 3px 3px 3px 3px grey;
 }
 
-.modalContent{
-  margin-left: 2%;
-  background-color: red;
-}
-
-.modalText{
-  margin-left: 5%;
-  padding: 2%;
-}
-
-i{
-  margin-left: 94%;
-  font-size: 190%;
+i {
+  position: absolute;
+  top: 10%;
+  right: 2%;
+  color: #585858;
+  text-decoration: none;
 }
