@@ -1,7 +1,7 @@
 import React from "react";
 import "../components/modal.css";
 
-
+//fonction qui créé deux props
 const Modal = (props) => {
     const {
       setIsOpen, 
@@ -9,7 +9,7 @@ const Modal = (props) => {
     } = props;
 
 
-
+    //permet d'afficher la modale avec les deux props
     return(
         <>
         <div className="modal">

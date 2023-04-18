@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import { Modal } from "../lib";
 
+
+//un exemple de fonction qui permet de savoir si la modale fonctionne 
 const App = () => {
     const [isOpen, setIsOpen]= useState(false);
     return(
