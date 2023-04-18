@@ -1,7 +1,7 @@
 import React from "react";
 import "../components/modal.css";
 
-//fonction qui créé deux props
+//fonction qui créait deux propos
 const Modal = (props) => {
     const {
       setIsOpen, 
