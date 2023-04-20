@@ -11,3 +11,6 @@ npm install modal-lib
 
 ### Require:
 [npm](https://www.npmjs.com/) with npm install
+
+### Exemple:
+
