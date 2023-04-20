@@ -1,5 +1,8 @@
-# simple-component-libraryA library of React components created using `create-react-app`.
+# Plugin Modal`.
 
-## InstallationRun the following command:`npm install simple-component-library`
+## Features
+Modal Text: insert your own content inside the modal
+Close: with icon on top, on overlay
+
 
 ## lib modal
