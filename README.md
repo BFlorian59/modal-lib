@@ -5,4 +5,6 @@ Modal Text: insert your own content inside the modal.\
 Close: with icon on top, on overlay.
 
 
-## lib modal
+## How to use
+### in your project root terminal
+npm install modal-lib
