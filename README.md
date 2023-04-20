@@ -1,4 +1,4 @@
-# Plugin Modal.
+# modal-lib.
 
 ## Features
 Modal Text: insert your own content inside the modal.\
@@ -10,4 +10,4 @@ Close: with icon on top, on overlay.
 npm install modal-lib
 
 ### Require:
-[npm](https://www.npmjs.com/) with ## npm install
+[npm](https://www.npmjs.com/) with npm install
