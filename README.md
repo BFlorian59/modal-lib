@@ -6,5 +6,8 @@ Close: with icon on top, on overlay.
 
 
 ## How to use
-### in your project root terminal
+### In your project root terminal
 npm install modal-lib
+
+###Require:
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
