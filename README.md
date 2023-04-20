@@ -9,5 +9,5 @@ Close: with icon on top, on overlay.
 ### In your project root terminal
 npm install modal-lib
 
-###Require:
+### Require:
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
